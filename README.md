@@ -205,3 +205,6 @@ This repository serves as the official landing page for ESET Online Scanner. The
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ESET Online Scanner today!**
+
+---
+**Last updated:** 2026-11-06 02:00:11 UTC
