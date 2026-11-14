@@ -207,4 +207,4 @@ This repository serves as the official landing page for ESET Online Scanner. The
 **Get the most recent version of ESET Online Scanner today!**
 
 ---
-**Last updated:** 2026-11-13 18:25:20 UTC
+**Last updated:** 2026-11-14 00:12:58 UTC
